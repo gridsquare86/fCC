@@ -1,1 +1,3 @@
 # fCC
+This is repo of all my fCC lessons and projects. Note that there will be 2 of the same files. (1) is what I did and (2) is me adding in <!--Comments--> that fCC allows you to do but wipes it away while you go through the lessons. Also projects come in 3 sets, What fCC wants, what I did, and what I was graded on. 
+TTD: 1)Comment on work. 2)Go through reading materials and make a cheat sheet of buttons and other cool html/css things to fall back on. 3)More to come....
